@@ -14,6 +14,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpanAir.IDAL", "ISpanAir.IDAL\ISpanAir.IDAL.csproj", "{1FE03161-1D17-4591-97ED-EE182A96C579}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03資料存取層", "03資料存取層", "{9A8F092B-D8FE-4C46-93DA-7DEE4BE5119A}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpanAir.DAL.ADO", "ISpanAir.DAL.ADO\ISpanAir.DAL.ADO.csproj", "{33A4870C-16D1-4192-AAB1-79853CFCA3D2}"
 EndProject
