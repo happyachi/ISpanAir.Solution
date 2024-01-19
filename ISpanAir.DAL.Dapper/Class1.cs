@@ -12,5 +12,16 @@ namespace ISpanAir.DAL.Dapper
 		{
 			Console.WriteLine("Hello World!");
 		}
+
+		public void sayGoodbye()
+		{
+			Console.WriteLine("Goodbye World!");
+		}
+
+		public void sHIe()
+		{
+			Console.WriteLine("Goodbye World!");
+			Console.WriteLine("Goodbye World!222");
+		}
 	}
 }
