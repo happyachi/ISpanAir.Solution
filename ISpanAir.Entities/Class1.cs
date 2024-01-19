@@ -8,5 +8,6 @@ namespace ISpanAir.Entities
 {
     public class Class1
     {
-    }
+		string name = "Chiya";
+	}
 }
