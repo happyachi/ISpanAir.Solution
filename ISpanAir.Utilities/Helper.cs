@@ -10,7 +10,9 @@ namespace ISpanAir.Utilities
 	{
 		public void GreetInCzech()
 		{
-			Console.WriteLine("Jak se jmenujes?");
+
+			Console.WriteLine("Jak se mas");
+
 			string myName = Console.ReadLine();
 			Console.WriteLine("Ahoj!" + myName);
 		}
