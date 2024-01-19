@@ -23,12 +23,12 @@ namespace ISpanAir.DAL.Dapper
 			Console.WriteLine("Goodbye World!");
 		}
 
-		public void sayGoodbye()
+		public void sayGoodbye5()
 		{
 			Console.WriteLine("Goodbye World!");
 		}
 
-		public void sHIe()
+		public void sHIe5()
 		{
 			Console.WriteLine("Goodbye World!");
 			Console.WriteLine("Goodbye World!222");
@@ -42,6 +42,7 @@ namespace ISpanAir.DAL.Dapper
 
 		public void Test2()
 		{
+		
             Console.WriteLine("Test2");
         }
 	}
